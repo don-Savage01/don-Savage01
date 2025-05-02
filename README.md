@@ -9,7 +9,7 @@ I'm **Gafar**, a frontend developer passionate about crafting beautiful and intu
 - @ [Threads](https://www.threads.net/@iam_don_savage)  
 - X: [@iam_don_Savage](https://twitter.com/iam_don_Savage)    
 
-- **[📱 https://wa.me/+2347081700672](https://wa.me/+2347081700672)**  
+- **[📱wa.me](https://wa.me/+2347081700672)** 
 
 **DonSavage/README.md**
 

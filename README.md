@@ -1,16 +1,30 @@
-## Hi there 👋
+## Gafar Gbolahan
 
-<!--
-**don-Savage01/don-Savage01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gafar, a frontend dev ✨ passionate about creating clean, user-focused web experiences.  
+Skilled in JavaScript with a focus on building modern, dynamic web applications.
 
-Here are some ideas to get you started:
+![Visitor Badge](https://komarev.com/ghpvc/?username=gafargbolahan&style=flat&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎯 Strong foundation in HTML, CSS, JavaScript, React, Next.js, and PostgreSQL  
+- 📍 Committed to writing clean, maintainable, and scalable code  
+- 🌍 Based in Ibadan, Nigeria  
+- 🤝 Open to collaboration on frontend projects and innovative ideas  
+- 💬 Continuously exploring new tools and best practices in frontend development  
+
+## Let's Connect
+
+[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://gafargbolahan.netlify.app)  
+[![Twitter](https://img.shields.io/badge/X-%40iam_donSavage-1DA1F2?style=flat&logo=x)](https://x.com/iam_don_Savage)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/2347081700672)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook)](https://facebook.com/DonSavage01)  
+[![Threads](https://img.shields.io/badge/Threads-%40iam_don_savage-black?style=flat&logo=threads)](https://www.threads.net/@iam_don_savage)  
+
+## GitHub Stats
+
+![Gafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafargbolahan&show_icons=true&theme=github_dark)
+
+## Contribution Graph
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=gafargbolahan&theme=github-dark&hide_border=false)

@@ -19,11 +19,11 @@ _____
 - 🗄️ Others: **PostgreSQL**, **Git**, **GitHub ...**
 _____
 
-  **👨‍💻About Me**
+**About Me**
 - ✨ Passionate about creating clean, user-focused web interfaces  
 - 🔍 Always learning and exploring new tools and best practices  
 - 🤝 Open to collaboration on frontend projects and creative ideas  
 
-Feel free to follow or reach out — I’m always open to new ideas and opportunities.
+**Feel free to follow or reach out — I’m always open to new ideas and opportunities**.
 
 

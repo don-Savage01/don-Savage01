@@ -13,15 +13,14 @@ I'm **Gafar**, a frontend developer passionate about crafting beautiful and intu
 
 **DonSavage/README.md**
 
-**👨‍💻About Me**
-
-- ✨ Passionate about creating clean, user-focused web interfaces  
 _____
      🛠 **Tech Stack**  
 - 💅 Frontend: **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **Next.js**  
 - 🗄️ Others: **PostgreSQL**, **Git**, **GitHub ...**
 _____
 
+  **👨‍💻About Me**
+- ✨ Passionate about creating clean, user-focused web interfaces  
 - 🔍 Always learning and exploring new tools and best practices  
 - 🤝 Open to collaboration on frontend projects and creative ideas  
 

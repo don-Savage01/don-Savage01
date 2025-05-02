@@ -1,36 +1,37 @@
-Frontend developer passionate about creating beautiful digital experiences  
+# 👋 Hey there!
 
-- [ ] ○ Ibadan, Nigeria  
-- [x] **[https://gafargbolahan.netlify.app](https://gafargbolahan.netlify.app)**  
-- [ ] @iam_don_Savage  
-- [ ] your-email@gmail.com  
-- [x] **[https://www.threads.net/@iam_don_savage](https://www.threads.net/@iam_don_savage)**  
-- [ ] XX followers • XX following  
+I'm **Gafar**, a frontend developer passionate about crafting beautiful and intuitive digital experiences.
 
-+ FOLLOW  
+---
 
-**DonSavage/README.md**
+ **📍 Location**
+- 🏙 Ibadan, Nigeria  
+- 🌐 [Portfolio Website](https://gafargbolahan.netlify.app)  
+- @ [Threads](https://www.threads.net/@iam_don_savage)  
+- X Twitter: [@iam_don_Savage](https://twitter.com/iam_don_Savage)    
 
-Hey 👋  
+---
 
-I'm Gafar, a frontend developer with a passion for building intuitive interfaces and...
+**👨‍💻About Me**
 
-I'm Gafar, a frontend dev ✨ passionate about creating clean, user-focused web experiences.  
-Skilled in JavaScript with a focus on building modern, dynamic web applications.
+- ✨ Passionate about creating clean, user-focused web interfaces  
+- 💻 Skilled in **HTML**, **CSS**, **TaailwindCSS** **JavaScript**, **React**, **Next.js**, and **PostgreSQL...**  
+- 🔍 Always learning and exploring new tools and best practices  
+- 🤝 Open to collaboration on frontend projects and creative ideas  
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=gafargbolahan&style=flat&color=blue)
+---
 
-**About Me**
-- 🎯 Strong foundation in HTML, CSS, JavaScript, React, Next.js, and PostgreSQL  
-- 📍 Committed to writing clean, maintainable, and scalable code  
-- 🌍 Based in Ibadan, Nigeria  
-- 🤝 Open to collaboration on frontend projects and innovative ideas  
-- 💬 Continuously exploring new tools and best practices in frontend development  
+**📊 GitHub Stats**
 
-## GitHub Stats
+![Gafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=don-Savage01&show_icons=true&theme=radical)
 
-![Gafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafargbolahan&show_icons=true&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=don-Savage01&theme=radical)
 
-## Contribution Graph
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=don-Savage01&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gafargbolahan&theme=github-dark&hide_border=false)
+---
+
+## 🙌 Let's Connect!
+Feel free to follow or reach out — I’m always open to new ideas and opportunities.
+
+

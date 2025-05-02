@@ -15,11 +15,13 @@ Skilled in JavaScript with a focus on building modern, dynamic web applications.
 
 ## Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://gafargbolahan.netlify.app)  
-[![Twitter](https://img.shields.io/badge/X-%40iam_don_Savage-1DA1F2?style=flat&logo=x)](https://x.com/iam_don_Savage)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp)](https://wa.me/2347081700672)  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=facebook)](https://facebook.com/DonSavage01)  
-[![Threads](https://img.shields.io/badge/Threads-%40iam_don_savage-black?style=flat&logo=threads)](https://www.threads.net/@iam_don_savage)
+## 🔗 Let's Connect  
+
+[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gafargbolahan.netlify.app)  
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iam_don_Savage)  
+[![WhatsApp](https://img.shields.io/badge/-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/2347081700672)  
+[![Facebook](https://img.shields.io/badge/-000000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/DonSavage01)  
+[![Threads](https://img.shields.io/badge/-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@iam_don_savage)
 
 ## GitHub Stats
 

@@ -16,9 +16,8 @@ I'm **Gafar**, a frontend developer passionate about crafting beautiful and intu
 **👨‍💻About Me**
 
 - ✨ Passionate about creating clean, user-focused web interfaces  
-
-  🛠 **Tech Stack**  
 _____
+     🛠 **Tech Stack**  
 - 💅 Frontend: **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **Next.js**  
 - 🗄️ Others: **PostgreSQL**, **Git**, **GitHub ...**
 _____

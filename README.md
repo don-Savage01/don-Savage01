@@ -4,13 +4,14 @@ I'm **Gafar**, a frontend developer passionate about crafting beautiful and intu
 
 ---
 
- **📍 Location**
-- 🏙 Ibadan, Nigeria  
+ **📍 Location 🏙 Ibadan, Nigeria**  
 - 🌐 [Portfolio Website](https://gafargbolahan.netlify.app)  
 - @ [Threads](https://www.threads.net/@iam_don_savage)  
-- X Twitter: [@iam_don_Savage](https://twitter.com/iam_don_Savage)    
+- X: [@iam_don_Savage](https://twitter.com/iam_don_Savage)    
 
----
+- [x] **[📱 https://wa.me/+2347081700672](https://wa.me/+2347081700672)**  
+
+**DonSavage/README.md**
 
 **👨‍💻About Me**
 

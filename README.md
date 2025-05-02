@@ -5,14 +5,12 @@ I'm **Gafar**, a frontend developer passionate about crafting beautiful and intu
 ---
 
  **📍 Location 🏙 Ibadan, Nigeria**  
-- 🔗 [https://gafargbolahan.com](https://gafargbolahan.netlify.app)  
-- @ [Threads](https://www.threads.net/@iam_don_savage)  
-- X: [@iam_don_Savage](https://twitter.com/iam_don_Savage)    
+- 🔗 **[Portfolio](https://gafargbolahan.netlify.app)**  
+- @ **[Threads](https://www.threads.net/@iam_don_savage)**
+- X **[@iam_don_Savage](https://twitter.com/iam_don_Savage)**    
 
 - **[📱wa.me](https://wa.me/+2347081700672)** 
-
-**DonSavage/README.md**
-
+_____
 _____
      🛠 **Tech Stack**  
 - 💅 Frontend: **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, **React**, **Next.js**  
